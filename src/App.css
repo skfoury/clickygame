@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.dinodiv {
+  height: 200px;
+  max-width: 200px;
+  display: inline-block;
+  background-color: black;
+}
+.table {
+  display: inline-table;
+  margin: 100px;
+}
+body {
+  background-image: url("jungle.jpg")
+}
+.header {
+  text-align: center;
+  background-color: rgba(76, 175, 80, 0.3);
+  font-size: 30px;
+  color: white;
+}
