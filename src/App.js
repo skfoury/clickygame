@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import GameCard from "./card.js";
 import Header from "./header.js";
 import Game from "./game.js";
+import GameCard from "./card.js";
 import dinosaurs from "./dinosaurs.json";
 
 
